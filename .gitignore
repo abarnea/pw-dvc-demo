@@ -1,3 +1,6 @@
 venv
 /model.pkl
 *.pkl
+*.env
+demoworkflows-bucket.json
+
