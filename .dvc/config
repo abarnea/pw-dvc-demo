@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = mystorage
+['remote "mystorage"']
+    url = gs://demoworkflows/dvc/demo_data
