@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -sp 'Please enter your remote storage bucket: ' storage_path
+read -sp 'Please enter the absolute path of your remote storage bucket: ' storage_path
 
 if [ -f "storage_bucket.env" ]
 then
