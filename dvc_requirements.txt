@@ -1,3 +1,6 @@
+# add any other requirements here.
+# requirements are in the format
+# dvc[STORAGE TYPE]
+# Ex: dvc[gdrive] installs Google Drive DVC capabilities
 dvc
-dvc[gdrive]
-dvc-gs
+dvc[gs] # for Google Cloud Services
