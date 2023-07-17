@@ -3,4 +3,5 @@ venv
 *.pkl
 *.env
 demoworkflows-bucket.json
+auto_gs.sh
 
